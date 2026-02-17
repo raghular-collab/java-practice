@@ -22,8 +22,9 @@ public class WordGuessor {
             System.out.println("Word is Wrong");
         }
         }
-        
+        scanner.close();
     }
     
 }
+
 
